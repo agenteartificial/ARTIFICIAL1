@@ -1,0 +1,2 @@
+# ARTIFICIAL1
+GitHub Pages
